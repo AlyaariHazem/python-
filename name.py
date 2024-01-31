@@ -1,0 +1,6 @@
+name=input('what is your name please? ')
+print(name)
+ip=input('what is your ip? ')
+print(ip)
+age=input('How old are you? ')
+print('Hi '+name+' your Ip is '+ip+' your age is '+age)
